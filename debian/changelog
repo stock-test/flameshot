@@ -1,0 +1,5 @@
+flameshot (0.6~dev-1) unstable; urgency=medium
+
+  * Initial deb package.
+
+ -- Boyuan Yang <073plan@gmail.com>  Mon, 07 May 2018 17:34:56 +0800
